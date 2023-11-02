@@ -1,9 +1,6 @@
 # AdHoc_Analysis
 This is a Project took from Resume Project Challenge 4, organized by Codebasics and Atliq Technologies in the consumer goods domain.
 
-
-I am pleased to share my project centered on ad hoc insights in the consumer goods domain. This project's data is taken from Resume project challenge organized by codebasics.
-
 🌟 PROBLEM 🌟
 
 Atliq Hardware is a leading manufacturer of computer hardware in India and other nations, but it struggles to make prompt and wise choices based on data. The management intends to add more junior data analysts to the data analytics team. Tony Sharma, the head of data analytics, conducts a SQL challenge to identify applicants with both technical and soft skills.
