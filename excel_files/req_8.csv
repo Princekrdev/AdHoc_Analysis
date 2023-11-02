@@ -1,0 +1,13 @@
+QUARTERS,monthname(date),SUM(sold_quantity)
+Q1,September,1764002
+Q1,October,2190792
+Q1,November,3050825
+Q2,December,3184205
+Q2,January,1762652
+Q2,February,1702785
+Q3,March,238961
+Q3,April,819956
+Q3,May,1016170
+Q4,June,1559773
+Q4,July,1692575
+Q4,August,1790193
